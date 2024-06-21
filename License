@@ -1,0 +1,7 @@
+### Explanation of Updates:
+- **Overview**: Clarifies that the application is built with HTML, CSS, and JavaScript and fetches songs from local folders.
+- **Features**: Lists features including fetching songs and emphasizes the local nature of the application.
+- **Getting Started**: Adds a step to ensure the project directory contains the required song folders and mentions updating JavaScript accordingly.
+- **Usage**: Ensures users understand how to interact with the locally fetched songs and other features of the application.
+
+(`varsanihemal`, `hvarsani_spotify`) This README will help users understand how to set up and use your Spotify application effectively.
